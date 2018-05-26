@@ -1,4 +1,0 @@
-print (hello world)
-print (hello all)
-print (hello Sveta)
-print ('how are you')
